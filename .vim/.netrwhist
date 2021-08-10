@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/etc/netplan'
+let g:netrw_dirhist_2='/root/ojt-master/ojt-project/my-hug-site/templates'
+let g:netrw_dirhist_3='/root/ojt-master/ojt-project/my-hug-site'
+let g:netrw_dirhist_4='/root/mysite/ojt/templates'
+let g:netrw_dirhist_5='/root/mysite/ojt/templates/ojt'
